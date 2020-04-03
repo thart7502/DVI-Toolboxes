@@ -9,11 +9,17 @@ Each of the 7 files is labled with the "step" number in the process, along with 
 names are as follows:
 
 (Step 1) Create 365 SHP Files from Full File
+
 (Step 2) Create 365 KDE files from SHPs
+
 (Step 3) Reclassify 365 Rasters to Significant Hotspots
+
 (Step 4) Create 365 Raster files for D R and E
+
 (Step 5) Create 365 Raster Tables for D R and E
+
 (Step 6) Create 365 Excel Tables for D R and E
+
 (Step 7) Appends 365 DD R and E files.
 
 When all 7 models are run, an Excle file containing the nubmer of grid cells at Time n + 1 predictions will be created.
