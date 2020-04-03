@@ -1,5 +1,6 @@
 # DVI-Toolboxes
 ArcGIS ModelBuilder Files Used to Create Daily KDE Hotspot Forecasts and a Measure of Dynamic Variability
+
 There are 7 model builder files in this toolbox file, representing the 7 steps taken to convert crime incident 
 location data points that are represented as discrete locations into an exportable Excel file that can be used 
 to measure the daily changes in crime hotspot patterns. 
